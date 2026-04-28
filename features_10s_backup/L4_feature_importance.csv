@@ -1,0 +1,17 @@
+feature,importance
+zombie_confirmed,45.37076187909439
+anomaly_raw_score,29.02358037665261
+mod_req_rate,7.750305310750531
+gtpu_silence_ratio,4.212026631207257
+weighted_criticality,3.139987737928602
+session_delta,2.797313796502382
+total_pkts,2.360798373209524
+unique_sessions,1.6723354108832873
+throughput_bps,1.2438736080575301
+mod_req_rate_delta,1.1612424939236237
+session_churn_rate,0.5996264292085252
+acceleration,0.47957636031191203
+avg_weight,0.17266951499530034
+gbr_ratio,0.015902077274526465
+failure_ratio,0.0
+voice_ratio,0.0
